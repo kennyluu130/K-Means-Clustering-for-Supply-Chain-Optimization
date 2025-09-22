@@ -28,7 +28,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn requests
 jupyter notebook walmart_kmeans.ipynb
 ```
 
-Alternatively, you can run the notebook directly in Google Colab: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/walmart-kmeans/blob/main/walmart_kmeans.ipynb)
+Alternatively, you can run the notebook directly in Google Colab: [![Open in Colab](https://colab.research.google.com/drive/1V0beUg55spoXqZAlqpJv13AzRorN4Bl0?usp=sharing)
 
 ## Acknowledgments
 - Dataset: Walmart store locations (Kaggle)  
